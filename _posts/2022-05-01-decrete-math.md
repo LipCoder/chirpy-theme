@@ -107,12 +107,14 @@ tags: [이산수학, 표기법, 자리표기법, 진법변환, 0의역할]     #
 10진법을 기준으로, 스위치의 신호를 10개의 상태로 만들었다고 가정하자. 
 
 한 자릿수에 대해 덧셈표를 작성하면 다음과 같다.
+
 ![10plus](/assets/img/posting/decrete-math/1-zero/10plus.PNG)
 {: width="50%" }
 
 그저 한 자릿수만 다루는 데에도 이렇게 복잡한 표가 나오게 된다. 
 
 반면, 2진법으로 스위치 신호를 2개의 상태로 덧셈표를 작성하면 다음과 같다.
+
 ![2plus](/assets/img/posting/decrete-math/1-zero/2plus.PNG)
 {: width="30%" }
 
